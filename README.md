@@ -1,4 +1,4 @@
-# resu-mile
+# resumile
 
 A simple and easy-to-maintain resume template written in Typst.
 
