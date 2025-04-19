@@ -100,7 +100,7 @@
 }
 
 // Use this one if you have a long name, or prefer a more traditional format
-#let name_contact_long() = {
+#let name_contact() = {
   [#set align(center)
   
     = Dwight Schrute
