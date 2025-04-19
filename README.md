@@ -1,6 +1,6 @@
 # mile-resume
 
-A simple and easy-to-maintain resume template written in Typst with some modern touches.
+A simple and easy-to-maintain resume template written in Typst.
 
 This template is mainly just to indulge myself, as it's what I'd want in a resume - also, it gave me an opportunity to dive into a little bit of scripting with Typst, which isn't something I've tried before. If you do end up using this template, though, please let me know!
 
