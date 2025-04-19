@@ -34,4 +34,4 @@ I personally like the first one more, as it was more fun to make, and I think it
 
 - chicv (https://github.com/skyzh/chicv): the template I used previously and took heavy inspiration from for this one
 - simple-technical-resume (https://typst.app/universe/package/simple-technical-resume/): provided me with some mildly amusing filler text since I didn't want to doxx my whole resume for the examples for free
-- fontawesome (https://typst.app/universe/package/fontawesome/): fontawesome for providing the icons, and duskmoon for this wonderful extension that actually lets me use them in the document!
+- fontawesome (https://typst.app/universe/package/fontawesome/): fontawesome for providing the icons, and duskmoon for this wonderful package that actually lets me use them in the document!
