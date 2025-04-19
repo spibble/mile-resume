@@ -1,0 +1,13 @@
+[package]
+name = "mile-resume"
+version = "1.0"
+entrypoint = "lib.typ"
+authors = ["@spibble"]
+license = "MIT"
+description = "A simple and easy-to-maintain resume template with a couple of modern touches."
+repository = "https://github.com/spibble/mile-resume/"
+keywords = ["cv", "resume"]
+categories = ["cv", "resume"]
+
+entrypoint = "main.typ"
+thumbnail = "../example.png"
